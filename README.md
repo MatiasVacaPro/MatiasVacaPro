@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MatiasVacaPro
 - 👀 I’m interested in Data Science
+- 🌱 I studied C++
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
